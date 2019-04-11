@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBLayer", "DBLayer\DBLayer.csproj", "{FB952439-B802-40B8-843B-1837BDC2E1BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserRoleConsoleApp", "UserRoleConsoleApp\UserRoleConsoleApp.csproj", "{343CEED7-2D8E-4504-BBF4-7846CC84C63C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FB952439-B802-40B8-843B-1837BDC2E1BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB952439-B802-40B8-843B-1837BDC2E1BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB952439-B802-40B8-843B-1837BDC2E1BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{343CEED7-2D8E-4504-BBF4-7846CC84C63C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343CEED7-2D8E-4504-BBF4-7846CC84C63C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{343CEED7-2D8E-4504-BBF4-7846CC84C63C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{343CEED7-2D8E-4504-BBF4-7846CC84C63C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
